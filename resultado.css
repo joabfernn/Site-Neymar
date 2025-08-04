@@ -60,4 +60,9 @@ body {
     top: 50px;
     text-align: center;
 }
+#respostas-quiz {
+    position: relative;
+    left: 900px;
+    top: -200px;
+}
 
