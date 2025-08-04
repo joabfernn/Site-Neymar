@@ -1,0 +1,60 @@
+h1 {
+    background-color: #009b3a;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+
+body{
+    background-color: rgb(222, 255, 33);
+}
+#imagembarcelona {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
+p{
+    color: rgb(0, 0, 0);
+    margin: 50px;
+}
+th{
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+table {
+    position: relative;
+    left: 500px;
+    background-color: white;
+    color: black;
+
+}
+
+
+
+
+
+.menu-fixo {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.menu-fixo a {
+    color: goldenrod;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.menu-fixo a:hover {
+    color: white;
+}
+
+
+
